@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="198px" height="88px" viewBox="0 0 198 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Idris</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.9931374,1 C15.9931374,1 31.6026505,7.66658328 33.1916242,21.5227665 C34.2868184,31.0730898 28.3368988,38.4587086 23.4394604,49.4578299 C18.542022,60.4569511 29.9009575,72.5716122 29.9009575,72.5716122 L15.9931374,72.5716122 C15.9931374,72.5716122 11.5677539,57.7079476 17.321719,46.5093714 C23.0756842,35.3107952 29.2652282,28.865327 29.9009575,21.5227665 C30.8201655,10.9060766 15.9931374,1 15.9931374,1 Z M21.6229393,15.5712082 C13.6518849,15.9602397 6,20.7272935 6,20.052556 C6,19.3778185 13.2211889,14.0119824 19.029121,12.3460114 C24.837053,10.6800404 21.6229393,15.5712082 21.6229393,15.5712082 Z M21.6229393,28.5712082 C13.6518849,28.9602397 6,33.7272935 6,33.052556 C6,32.3778185 13.2211889,27.0119824 19.029121,25.3460114 C24.837053,23.6800404 21.6229393,28.5712082 21.6229393,28.5712082 Z M22.4617532,22.2201255 C13.042294,22.6798472 4,28.313113 4,27.5157703 C4,26.7184275 12.5333371,20.3775758 19.3966172,18.4088845 C26.2598973,16.4401932 22.4617532,22.2201255 22.4617532,22.2201255 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-Applied" transform="translate(-63.000000, -83.000000)">
+            <g id="Isotype-New" transform="translate(66.000000, 88.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <g id="Mixins/Fills/Primary" mask="url(#mask-2)" fill-rule="evenodd" fill="#AA0000">
+                    <rect id="Rectangle" x="0" y="0" width="41" height="73"></rect>
+                </g>
+            </g>
+            <text id="Idris" font-family="SortsMillGoudy-Regular, Sorts Mill Goudy" font-size="70" font-weight="normal" fill="#000000">
+                <tspan x="119" y="160">Idris</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
