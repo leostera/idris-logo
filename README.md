@@ -1,5 +1,7 @@
 # idris-logo
-Just my take on the Idris logo
+> Just my take on the Idris logo.
+
+Worth noting that in the vectorized one I picked the font that _sorta_ looked god: Sorts Mill Goudy.
 
 ### Original (Bitmap)
 <img src="https://cdn.rawgit.com/ostera/idris-logo/master/exports/original.png" />
